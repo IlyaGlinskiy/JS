@@ -1,2 +1,2 @@
 # JS
-JavaScriot 
+JavaScript 
